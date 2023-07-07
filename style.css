@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(245, 245, 210) !important;
+}
+.container{
+    margin: 20px auto;
+}
+.calc-screen{
+    color: blanchedalmond !important;
+}
+.card{
+    background-color: transparent !important;
+    border: none !important;
+}
+.btn{
+    color: white !important;
+    border-color: black !important;
+}
+.delete-btn{
+    border: none;
+    background-color: red;
+    padding: 10px;
+    color: white;
+}
+.card-body{
+    background-color: rgb(189, 185, 185);
+}
